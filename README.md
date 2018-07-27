@@ -1,6 +1,6 @@
-# station
+# 微信公众号，移动端框架构建
 
-> innosky station project
+> a project of mobile-font
 
 ## Build Setup
 
